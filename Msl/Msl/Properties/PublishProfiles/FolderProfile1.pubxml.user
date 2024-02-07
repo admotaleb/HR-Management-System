@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>F:\Motaleb\Msl\Msl\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2023-03-07T09:07:38.9305291Z;True|2023-03-01T14:16:20.4884086+06:00;True|2023-03-01T13:46:29.5361259+06:00;True|2023-03-01T12:27:19.4325298+06:00;True|2023-02-28T14:39:06.7428541+06:00;True|2023-02-28T13:07:27.3656558+06:00;True|2023-02-28T12:20:08.2869777+06:00;True|2023-02-23T12:57:41.7214557+06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

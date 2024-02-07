@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>F:\Motaleb\Msl\Msl\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2023-04-06T04:52:18.6815261Z;True|2023-04-05T14:59:17.8339982+06:00;True|2023-03-09T16:17:06.4205479+06:00;True|2023-02-06T11:42:10.3574450+06:00;True|2023-02-05T11:52:00.0152291+06:00;True|2023-02-02T13:31:58.6527540+06:00;True|2023-02-02T12:25:41.3031004+06:00;True|2023-02-01T10:23:36.7011917+06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=MOTALEB-IT\SQLEXPRESS%3bDatabase=Msl%3bTrusted_Connection=True%3bMultipleActiveResultSets=true</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="Msl.Data.ApplicationDbContext">
+      <Value>Server=MOTALEB-IT\SQLEXPRESS%3bDatabase=Msl%3bTrusted_Connection=True%3bMultipleActiveResultSets=true</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
